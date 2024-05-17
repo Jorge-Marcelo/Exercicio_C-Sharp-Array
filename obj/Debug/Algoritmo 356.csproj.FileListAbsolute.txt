@@ -1,0 +1,7 @@
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Algoritmo 356\Algoritmo 356\bin\Debug\Algoritmo 356.exe.config
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Algoritmo 356\Algoritmo 356\bin\Debug\Algoritmo 356.exe
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Algoritmo 356\Algoritmo 356\bin\Debug\Algoritmo 356.pdb
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Algoritmo 356\Algoritmo 356\obj\Debug\Algoritmo 356.csproj.AssemblyReference.cache
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Algoritmo 356\Algoritmo 356\obj\Debug\Algoritmo 356.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Algoritmo 356\Algoritmo 356\obj\Debug\Algoritmo 356.exe
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Algoritmo 356\Algoritmo 356\obj\Debug\Algoritmo 356.pdb
